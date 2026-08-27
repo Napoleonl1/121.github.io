@@ -1,0 +1,5 @@
+title: 我的博客
+description: 使用 Jekyll 和 GitHub Pages 搭建的静态博客
+baseurl: "" # 若使用自定义子目录则填写，例如 /blog
+url: "https://121.github.io" # 站点 URL，若使用自定义域请在提交前改为你的域名
+theme: minima

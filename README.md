@@ -1,2 +1,3 @@
 # 121.github.io
-Initialized by Copilot: minimal Jekyll static blog
+
+最小 Jekyll 静态博客，由 Copilot 初始化。
